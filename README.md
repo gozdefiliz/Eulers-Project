@@ -1,2 +1,2 @@
 # Eulers-Project
-Codes for https://projecteuler.net/archives
+My codes for https://projecteuler.net/archives
